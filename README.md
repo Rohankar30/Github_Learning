@@ -1,2 +1,11 @@
 # Github_Learning
-My First github learning project
+This is my first GitHub repository.
+
+## What I am learning
+
+- Git
+- GitHub
+- Repositories
+- Commits
+- Branches
+- Pull Requests
